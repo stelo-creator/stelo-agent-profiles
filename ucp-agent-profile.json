@@ -1,0 +1,14 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "capabilities": {
+      "dev.ucp.shopping.catalog.search": [{ "version": "2026-08-25" }],
+      "dev.ucp.shopping.catalog.lookup": [{ "version": "2026-08-25" }],
+      "dev.shopify.catalog": [{ "version": "2026-08-25" }],
+      "dev.ucp.shopping.cart": [{ "version": "2026-08-25" }],
+      "dev.ucp.shopping.checkout": [{ "version": "2026-08-25" }],
+      "dev.ucp.shopping.buyer_consent": [{ "version": "2026-08-25" }]
+    }
+  },
+  "name": "Klodushka — SteloSupps facade check (STELO UG, read-only tests, no purchases)"
+}
